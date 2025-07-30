@@ -46,17 +46,6 @@ This project demonstrates the design and implementation of autonomous AI agents 
 
 ---
 
-## 🗺️ Workflow Diagrams
-
-| Workflow                          | Diagram |
-|----------------------------------|---------|
-| Content Ideas Agent              | ![Content Ideas Agent](path/to/content-agent.png) |
-| Inventory Management Agent       | ![Inventory Agent](path/to/inventory-agent.png) |
-| Email Responder Agent            | ![Email Responder Agent](path/to/email-agent.png) |
-
-> Replace the paths above with links to actual image files in your repo or public URLs.
-
----
 
 ## 🧪 Usage Guide
 
